@@ -5,3 +5,4 @@ Conversion functions needed:
 -gallons to liters
 -hours to minutes
 -feet to inches
+-radius
